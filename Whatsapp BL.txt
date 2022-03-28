@@ -1,0 +1,4 @@
+0.0.0.0 g.whatsapp.net
+0.0.0.0 mmg-fna.whatsapp.net
+0.0.0.0 static.whatsapp.net
+0.0.0.0 web.whatsapp.com
